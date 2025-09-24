@@ -4,7 +4,7 @@ Nesta aula,exploramos dois dos principais recursos de organização de conteúdo
 
 # Conteúdo abordado:
 
-Diferenças e usos das listas <ul>, <ol> e <li>
-Criação de tabelas com <table>, <tr>, <th>, <td>
-Uso de <thead>, <tbody>, <tfoot> e <caption> para organização e semântica
+Diferenças e usos das listas ul, ol e li
+Criação de tabelas com table, tr, th, td
+Uso de thead, tbody, tfoot e caption para organização e semântica
 
